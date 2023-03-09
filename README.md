@@ -1,4 +1,4 @@
-# first-restfull-api
+# first-restful-api
 
 Projeto baseado nas aulas do professor Weberson Rodrigues, sendo desenvolvida uma RESTful API para controle de produtos. 
 
